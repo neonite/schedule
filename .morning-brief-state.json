@@ -1,40 +1,40 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-07-29",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "prashant-year-end-comp",
+      "title": "Prashant is blocked on you for year-end comp",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "pranay-justdial-partnership",
+      "title": "Pranay is waiting on your read on Justdial",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "srijesh-book-api-intern-ask",
+      "title": "Srijesh hasn't answered your API intern ask",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
+      "key": "gmail:exit-clearance-i0447",
+      "title": "Exit clearance for Pasupuleti Vivek",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-07-29",
+      "runsSeen": 2
     },
     {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
+      "key": "gmail:icici-upi-golive",
+      "title": "Sarang's ICICI UPI chase is still open",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-07-29",
+      "runsSeen": 2
     }
   ]
 }
