@@ -1,39 +1,39 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-07-30",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
+      "key": "gmail:exit-clearance-pasupuleti-vivek",
+      "title": "Exit clearance for Pasupuleti Vivek has waited 13 days",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-07-30",
+      "runsSeen": 2
     },
     {
       "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
+      "title": "Sarang is still chasing the ICICI UPI go-live",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-30",
+      "runsSeen": 2
+    },
+    {
+      "key": "slack:C0B2F91PAQ6:abhi-pricing-deadline",
+      "title": "ABHI pricing needs to close by 5pm today",
+      "firstSeen": "2026-07-30",
+      "lastSeen": "2026-07-30",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "exotel:credit-limit",
+      "title": "Exotel calling credit running out in 3 days",
+      "firstSeen": "2026-07-30",
+      "lastSeen": "2026-07-30",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:D087D9YQ7QT:1785309802.540009",
+      "title": "Jagnoor's unanswered screenshot DM",
+      "firstSeen": "2026-07-30",
+      "lastSeen": "2026-07-30",
       "runsSeen": 1
     }
   ]
