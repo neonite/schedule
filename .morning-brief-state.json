@@ -1,39 +1,25 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-08-05",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
       "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
+      "title": "An exit clearance has waited on your approval",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-08-05",
+      "runsSeen": 2
+    },
+    {
+      "key": "gmail:19fcb37b0f102b8c",
+      "title": "Aditya Birla Capital is waiting on your API review",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "gmail:19fa86964fea1eac",
+      "title": "Pranay's Justdial forward is still unread",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05",
       "runsSeen": 1
     }
   ]
