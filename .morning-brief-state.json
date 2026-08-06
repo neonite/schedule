@@ -1,40 +1,47 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-08-06",
   "needsAttention": [
     {
+      "key": "slack:C0BJKRSAH1V:1785926300.959769",
+      "title": "The Freedom plan sign-off got missed",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19f93f38434ae527",
+      "title": "ekincare's API bug is still open",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19fd0b8351cc7d1d",
+      "title": "Onsurity is chasing the app APIs",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "runsSeen": 1
+    },
+    {
+      "key": "leadership:tomorrow:ljeq7sushq4ktj2j28egg58358",
+      "title": "Tomorrow: App Discussion with Shashank and Jagnoor",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "runsSeen": 1
+    },
+    {
       "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
+      "title": "Pulkit is still waiting on you",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-08-06",
+      "runsSeen": 2
     },
     {
       "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
+      "title": "An exit clearance has waited three weeks",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-08-06",
+      "runsSeen": 2
     }
   ]
 }
