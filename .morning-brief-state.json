@@ -1,39 +1,39 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-08-07",
   "needsAttention": [
     {
       "key": "slack:C09DKJJCL7K:1785170959.678059",
       "title": "Pulkit is waiting on you to weigh in",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-08-07",
+      "runsSeen": 2
+    },
+    {
+      "key": "slack:C0BN326QZFC:1786008824.461639",
+      "title": "Satish Arunachalam is waiting on an insurance hire",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BJSRUDWAV:1786021394.309209",
+      "title": "Jagnoor asked about Prime Consult onboarding",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "gmail:19fd6f7405c2d600",
+      "title": "Aditya Birla Capital wants to widen the conversation",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0AUABXTRV1:1785994158.314969",
+      "title": "Your Quantum branding question is still open",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07",
       "runsSeen": 1
     }
   ]
