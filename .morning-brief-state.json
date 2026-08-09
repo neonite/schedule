@@ -1,40 +1,54 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-08-09",
   "needsAttention": [
+    {
+      "key": "gmail:19fd0ea0408fcc8e",
+      "title": "Onsurity's prescription complaint is still open",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19fdfd43f2988119",
+      "title": "Sid's payout approval is waiting",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19fd704b49691ce0",
+      "title": "Sarang's pricing questions, unanswered",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19fa86964fea1eac",
+      "title": "Pranay's Justdial forward, unanswered",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:D087D9YQ7QT:1786001701.010539",
+      "title": "Jagnoor hasn't circled back on Sandeep's scope",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "runsSeen": 1
+    },
     {
       "key": "slack:C09DKJJCL7K:1785170959.678059",
       "title": "Pulkit is waiting on you to weigh in",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-08-09",
+      "runsSeen": 2
     },
     {
       "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
+      "title": "An exit clearance is waiting on your sign-off",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-08-09",
+      "runsSeen": 2
     }
   ]
 }
