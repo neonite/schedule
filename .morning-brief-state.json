@@ -1,40 +1,61 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-08-11",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "gmail:19fd0b8351cc7d1d",
+      "title": "Onsurity is still waiting on the API timeline you promised",
+      "firstSeen": "2026-08-11",
+      "lastSeen": "2026-08-11",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BMYEP7Y86:1786377231.007679",
+      "title": "Today's strategic review has an overdue board slide riding on it",
+      "firstSeen": "2026-08-11",
+      "lastSeen": "2026-08-11",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BDP34NBQ8:1786351422.470279",
+      "title": "Alok needs a Practo Plus line for the retention doc",
+      "firstSeen": "2026-08-11",
+      "lastSeen": "2026-08-11",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19fd704b49691ce0",
+      "title": "Sarang's pricing questions are still open",
+      "firstSeen": "2026-08-11",
+      "lastSeen": "2026-08-11",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19feb8cef6b0b40f",
+      "title": "Banashree needs your sign-off on July refunds",
+      "firstSeen": "2026-08-11",
+      "lastSeen": "2026-08-11",
+      "runsSeen": 1
+    },
+    {
+      "key": "gmail:19fa86964fea1eac",
+      "title": "Pranay's Justdial forward is still unread",
+      "firstSeen": "2026-08-11",
+      "lastSeen": "2026-08-11",
       "runsSeen": 1
     },
     {
       "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
+      "title": "Vivek's exit clearance is still pending",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-08-11",
+      "runsSeen": 2
     },
     {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
+      "key": "slack:C09DKJJCL7K:1785170959.678059",
+      "title": "Pulkit's earlier ask is still open",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
+      "lastSeen": "2026-08-11",
+      "runsSeen": 2
     }
   ]
 }
