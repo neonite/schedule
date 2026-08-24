@@ -1,39 +1,39 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-08-24",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:D0AA7SX9RRQ:1787555604.816529",
+      "title": "Update the supply score section before 7:30 tonight",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "cal:ib6vrus07qvfeg7776jguns3lj_20260825T053000Z",
+      "title": "Tomorrow: Strategic Projects Review with Shashank and Jagnoor",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "cal:019k6p2l8231umta00tcpvejsk",
+      "title": "Jagnoor is on today's API finance process call",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0AA4B4MZ2M:1787550245.211119",
+      "title": "Pranay's waiting on where Consult BU reporting should go",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:D0942C3SZFE:1787550225.862899",
+      "title": "Nudge Satish to sign the Medi Assist NDA",
+      "firstSeen": "2026-08-24",
+      "lastSeen": "2026-08-24",
       "runsSeen": 1
     }
   ]
