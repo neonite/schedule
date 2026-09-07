@@ -1,40 +1,41 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-09-07",
   "needsAttention": [
+    {
+      "key": "drive:jtbd-tracker-prereview-2026-09-08",
+      "title": "Update your JTBDs before tomorrow's review",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:C0BUHQ3KULB:1788546948.219679",
+      "title": "Bring audited numbers to the 3 PM EBITDA review",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "runsSeen": 1
+    },
     {
       "key": "slack:C09DKJJCL7K:1785170959.678059",
       "title": "Pulkit is waiting on you to weigh in",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-09-07",
+      "runsSeen": 2
+    },
+    {
+      "key": "slack:C0BJBAQUSV6:1788687638.116649",
+      "title": "Your transaction-drop question hasn't landed an answer",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0C0GA7KGU8:1788687422.216469",
+      "title": "The Grid video script question is still open",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
       "runsSeen": 1
     }
-  ]
+  ],
+  "notes": "gmail unavailable this run (mcp auth required, non-interactive session) — email-sourced rules (VIP/external customer/senior-colleague email scans) could not be evaluated on 2026-09-07. Dropped from tracking as cleared/stale: prep:aditya-birla-rfp-2026-07-29 (date passed), gmail:19f97f21190b051b, gmail:19fa674d37cd3399, gmail:19fa351268f5c119 (unverifiable while Gmail is disconnected)."
 }
