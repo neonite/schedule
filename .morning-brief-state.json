@@ -1,39 +1,18 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-09-11",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BUHQ3KULB:1788775715.809559",
+      "title": "Jagnoor's still waiting on the AOP guidance confirm",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BSDTP0ZAR:1789035680.886619",
+      "title": "Akhilesh hasn't answered on the Dx data cleanup",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
       "runsSeen": 1
     }
   ]
