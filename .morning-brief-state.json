@@ -1,40 +1,41 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-09-14",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "prep:strategic-review-2026-09-15",
+      "title": "Tomorrow: Strategic Projects Review with Shashank and Jagnoor",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:D0C18BG5H6G:1789112046.647839",
+      "title": "Mohammed Rooman's travel approval needs your sign-off",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BJBAQUSV6:1788939102.547939",
+      "title": "Merged-listing fix ETA still pending from Sarang",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BM6LL4RQC:1789205974.552899",
+      "title": "Your 'Solution?' ask on Cardiology LO is unanswered",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0AE5LG9KV0:1789271975.640079",
+      "title": "Partner-jump question to Jay is unanswered",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
       "runsSeen": 1
     }
-  ]
+  ],
+  "notes": "Gmail was disconnected (token expired) on the 2026-09-14 run, so no email items were checked or tracked this run. The 5 items tracked from the 2026-07-28 run (Pulkit, Sarang/ICICI, Aditya Birla prep, exit clearance, Soundarya reimbursement) were carried for ~7 weeks without a run updating them. The Pulkit item was checked this run and found resolved (kshitij replied on 2026-07-28) and is dropped. The remaining 4 old email/prep items could not be re-verified without Gmail access and were dropped rather than resurfaced blind; re-check from scratch once Gmail is reconnected."
 }
