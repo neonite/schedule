@@ -1,23 +1,9 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-09-21",
   "needsAttention": [
-    {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
     {
       "key": "gmail:19f97f21190b051b",
       "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
       "firstSeen": "2026-07-28",
       "lastSeen": "2026-07-28",
       "runsSeen": 1
@@ -35,6 +21,35 @@
       "firstSeen": "2026-07-28",
       "lastSeen": "2026-07-28",
       "runsSeen": 1
+    },
+    {
+      "key": "prep:shashank-1on1-2026-09-21",
+      "title": "Prep for tonight's Shashank catch-up",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "runsSeen": 1
+    },
+    {
+      "key": "prep:strategic-projects-review-2026-09-22",
+      "title": "Prep for tomorrow's Strategic Projects Review",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:C0C2X2H3P1A:1789908343.717069",
+      "title": "Book-reliability escalation is still open",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:C0BT1G2110E:1789477265.704259",
+      "title": "Teleconsult doc from Jay is still pending",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "runsSeen": 1
     }
-  ]
+  ],
+  "notes": "2026-09-21 run: Gmail MCP was disconnected (needs re-auth), so the three carried-over gmail:* entries from 2026-07-28 could not be re-verified and were left out of the rendered brief unchanged. Old slack:C09DKJJCL7K:1785170959.678059 (Pulkit) entry was checked this run via Slack search and did not resurface as an open item, so it was dropped as resolved."
 }
