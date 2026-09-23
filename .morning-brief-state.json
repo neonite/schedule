@@ -1,23 +1,9 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-09-23",
   "needsAttention": [
-    {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
     {
       "key": "gmail:19f97f21190b051b",
       "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
       "firstSeen": "2026-07-28",
       "lastSeen": "2026-07-28",
       "runsSeen": 1
@@ -35,6 +21,37 @@
       "firstSeen": "2026-07-28",
       "lastSeen": "2026-07-28",
       "runsSeen": 1
+    },
+    {
+      "key": "slack:C09DKJJCL7K:1785170959.678059",
+      "title": "Pulkit is waiting on you to weigh in",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-09-23",
+      "runsSeen": 2
+    },
+    {
+      "key": "slack:D08P1D6DB7F:1790106217.840999",
+      "title": "Jay's VC->Dx risk callout is unanswered",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:C0BGNA1CGHY:1789731920.151639",
+      "title": "Ops team's contract-conversion ask is open",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:C0C0GA7KGU8:1790088516.065999",
+      "title": "Shareef hasn't answered your follow-up",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "runsSeen": 1
     }
-  ]
+  ],
+  "notes": {
+    "2026-09-23": "Gmail MCP was unauthenticated all run (needs re-auth); email-derived items (gmail:*) carried forward unverified, not incremented. prep:aditya-birla-rfp-2026-07-29 dropped (date passed)."
+  }
 }
