@@ -1,39 +1,39 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-09-26",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "prep:virtual-clinics-review-2026-09-26",
+      "title": "Skim the clinics sizing doc before 5",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0C3QRHHMK7:1790313809.745619",
+      "title": "Srijesh hasn't said when he can join",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:D08P1D6DB7F:1790262266.846939",
+      "title": "Jay is still waiting on your comments",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BU0U3MT37:1790343191.096999",
+      "title": "Shuba's third ask for comments sits open",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BT1G2110E:1790335793.105149",
+      "title": "Sid's question on Shield is unanswered",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
       "runsSeen": 1
     }
   ]
