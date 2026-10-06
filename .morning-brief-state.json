@@ -1,40 +1,12 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-10-06",
   "needsAttention": [
-    {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    }
+    {"key": "gmail:unavailable", "title": "Inbox wasn't read this morning", "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "runsSeen": 1},
+    {"key": "prep:jagnoor-weekly-review-2026-10-06", "title": "Jagnoor's 5 PM review needs a landing-page call", "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "runsSeen": 1},
+    {"key": "slack:D0C6MK00Q6A:1791177102.726339", "title": "Vishal Aman is waiting on a catch-up slot", "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "runsSeen": 1},
+    {"key": "slack:C09QPL2F07M:1791205065.716599", "title": "Payouts of 3.77L went out with no prescription", "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "runsSeen": 1},
+    {"key": "prep:partner-api-weekly-2026-10-07", "title": "Tomorrow's Partner API call: three open threads", "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "runsSeen": 1},
+    {"key": "slack:C09HP4039CH:1790763933.755529", "title": "Partner credit trackers: no answer since Sep 30", "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "runsSeen": 1},
+    {"key": "slack:C08PE3G3Q91:1791191513.551499", "title": "Three of your questions are still unanswered", "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "runsSeen": 1}
   ]
 }
