@@ -1,40 +1,11 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-10-07",
   "needsAttention": [
-    {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    },
-    {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
-      "runsSeen": 1
-    }
+    {"key": "slack:C0BJKRSAH1V:1791275312.648489", "title": "Jagnoor's AOp question on Shield", "firstSeen": "2026-10-07", "lastSeen": "2026-10-07", "runsSeen": 1},
+    {"key": "slack:C0C2X2H3P1A:1791306075.344279", "title": "Sid's HRC-to-CT message", "firstSeen": "2026-10-07", "lastSeen": "2026-10-07", "runsSeen": 1},
+    {"key": "slack:C0C0L0Q2ND6:1791210679.919909", "title": "Praveen's Ekincare day", "firstSeen": "2026-10-07", "lastSeen": "2026-10-07", "runsSeen": 1},
+    {"key": "cal:pay-and-restart-kickoff-2026-10-07", "title": "Pay and Restart kickoff overlaps leave", "firstSeen": "2026-10-07", "lastSeen": "2026-10-07", "runsSeen": 1},
+    {"key": "prep:retention-cvp-catchup-2026-10-08", "title": "Retention catch-up with Jagnoor", "firstSeen": "2026-10-07", "lastSeen": "2026-10-07", "runsSeen": 1},
+    {"key": "followup:war-room-aov-variant-ceo-office", "title": "Three unanswered asks", "firstSeen": "2026-10-07", "lastSeen": "2026-10-07", "runsSeen": 1}
   ]
 }
