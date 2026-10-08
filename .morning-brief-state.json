@@ -1,39 +1,67 @@
 {
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-10-08",
   "needsAttention": [
     {
-      "key": "slack:C09DKJJCL7K:1785170959.678059",
-      "title": "Pulkit is waiting on you to weigh in",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0C7H9KJSTE:1791382530.795639",
+      "title": "Sarang needs the 3 variants spelled out",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19f97f21190b051b",
-      "title": "Sarang is chasing the ICICI UPI go-live",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "gmail:1a11656942036b82",
+      "title": "Doctor payout percentages need sign-off",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
       "runsSeen": 1
     },
     {
-      "key": "prep:aditya-birla-rfp-2026-07-29",
-      "title": "Tomorrow: price talks with Aditya Birla",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0C86BF7ZFA:1791364564.378449",
+      "title": "Harsh waiting on 1.2 multiplier",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa674d37cd3399",
-      "title": "An exit clearance has waited 10 days",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "slack:C0BNDG9D4CS:1791366489.471929",
+      "title": "Pooja wants approved Shield messaging",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
       "runsSeen": 1
     },
     {
-      "key": "gmail:19fa351268f5c119",
-      "title": "Soundarya needs a reimbursement approved",
-      "firstSeen": "2026-07-28",
-      "lastSeen": "2026-07-28",
+      "key": "gmail:1a1118ddefa2c183",
+      "title": "Aditya Birla Capital policy data",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:C0C0L0Q2ND6:1791265125.921819",
+      "title": "Praveen day for Ekincare tables",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "runsSeen": 1
+    },
+    {
+      "key": "slack:D0A347GLH7X:1791349204.184859",
+      "title": "Note to Shivam on Deb unanswered",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "runsSeen": 1
+    },
+    {
+      "key": "prep:key-projects-month-trending-2026-10-09",
+      "title": "Tomorrow: Key Projects + Month trending",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "runsSeen": 1
+    },
+    {
+      "key": "prep:healthi-2026-10-13",
+      "title": "Healthi meeting inside leave",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
       "runsSeen": 1
     }
   ]
